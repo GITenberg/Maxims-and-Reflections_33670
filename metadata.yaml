@@ -1,0 +1,49 @@
+_repo: Maxims-and-Reflections_33670
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Saunders, T. Bailey (Thomas Bailey)
+    aliases:
+    - Saunders, Bailey
+    - Saunders, Thomas Bailey
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '4542'
+    url: http://www.gutenberg.org/2009/agents/4542
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: The passing thoughts Goethe jotted down during his long, varied, and
+  hectic life -- thankfully preserved on theater programs, visiting cards, draft manuscripts,
+  and bills -- show him to be the last true "Renaissance man" of Europe. Although
+  employed as a privy councillor at the Duke of Weimar's court, he also painted; directed
+  plays; carried out research in the classics, anatomy, botany, and optics; and still
+  found time to produce masterpieces in every literary genre. His 1,413 maxims and
+  reflections reveal not only some of his deepest thoughts on art, ethics, literature,
+  and natural science but also his immediate reactions to books, chance encounters,
+  and his administrative work. With freshness and immediacy, Maxims and Reflections
+  vividly conjures up Goethe the man and the genius.
+gutenberg_issued: '2010-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epigrams, German -- Translations into English'
+- !lcc 'PT'
+title: Maxims and Reflections
+url: http://www.gutenberg.org/ebooks/33670
